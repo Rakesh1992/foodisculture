@@ -635,6 +635,7 @@ body::-webkit-scrollbar-thumb {
   .navbar-toggle
   {
     margin-top: 18px;
+    background-color:#fff;
   }
 
   .navbar-default .navbar-toggle .icon-bar
