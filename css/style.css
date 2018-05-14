@@ -600,8 +600,8 @@ body::-webkit-scrollbar-thumb {
   .navbar-nav>li
   {
     width:100%;
-    background-color: #e7e7e7;
-    margin-top: 1px;
+    background-color: #f5f3f3;
+    border-bottom: 1px solid #f3f2f2;
   }
 
   .navbar-default .navbar-nav>li>a
