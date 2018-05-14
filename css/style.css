@@ -635,12 +635,16 @@ body::-webkit-scrollbar-thumb {
   .navbar-toggle
   {
     margin-top: 18px;
-    background-color:#fff;
   }
 
   .navbar-default .navbar-toggle .icon-bar
   {
     background-color: #f9c203;
+  }
+  
+  .navbar-default .navbar-toggle:hover
+  {
+    background-color:#fff;
   }
 
   .food-text-block
