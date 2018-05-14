@@ -600,8 +600,8 @@ body::-webkit-scrollbar-thumb {
   .navbar-nav>li
   {
     width:100%;
-    background-color: #f5f3f3;
-    border-bottom: 1px solid #f3f2f2;
+    background-color: #fbfafa;
+    border-bottom: 1px solid #e7e7e7;
   }
 
   .navbar-default .navbar-nav>li>a
@@ -639,7 +639,7 @@ body::-webkit-scrollbar-thumb {
 
   .navbar-default .navbar-toggle .icon-bar
   {
-    background-color: #f9f7f7;
+    background-color: #f9c203;
   }
 
   .food-text-block
